@@ -1,4 +1,3 @@
-testing repo
 # test1
 👋 Hi, I’m @CharityKajjubi18
 👀 I’m interested in coding
